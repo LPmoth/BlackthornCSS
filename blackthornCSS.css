@@ -1,0 +1,8 @@
+
+.product-item__price.ng-star-inserted {
+    display: none;
+  }
+
+.search.ng-untouched.ng-pristine.ng-valid.ng-star-inserted {
+    visibility:hidden;
+}
