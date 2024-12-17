@@ -1,6 +1,6 @@
 
 .product-item__price.ng-star-inserted {
-    display: none;
+    display: none; !important
   }
 
 .search.ng-untouched.ng-pristine.ng-valid.ng-star-inserted {
